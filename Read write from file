@@ -1,0 +1,11 @@
+#include <iostream>
+#include <cstdio>
+
+using namespace std;
+
+int main() {
+    freopen("name.file","r",stdin);
+    freopen("name.file","w",stdout);
+    return 0;
+}
+/* I usually forget how to write these to even start*/
